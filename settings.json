@@ -1,0 +1,8 @@
+{
+  "public": {
+    "sauceCMS": {
+      "layoutName": "sampleLayout",
+      "superAdmin": "superAdmin@example.com"
+    }
+  }
+}

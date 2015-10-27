@@ -1,0 +1,30 @@
+.navbar {
+  margin-bottom: 0;
+}
+
+.jumbotron {
+  padding-top: 25em;
+  background: url('img/space-cat-bg.gif') no-repeat bottom right fixed;
+  background-size: cover;
+  color: #fff;
+}
+
+.large-quote {
+  padding: 3em 0;
+}
+
+.large-quote .quote-text {
+  font-size: 3em;
+  padding: 0 1em;
+  border-left: 2px solid #aaa;
+}
+
+.large-quote .quote-author {
+  font-size: 2em;
+  color: #aaa;
+}
+
+footer {
+  padding-top: 4em;
+  padding-bottom: 1em;
+}
